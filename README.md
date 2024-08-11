@@ -1,6 +1,5 @@
 ## Hi there 👋
 <p><img align="center" src="RGvirer/activity-snake.svg" alt="RGvirer" /></p>
-
 <!--
 **RGvirer/RGvirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
