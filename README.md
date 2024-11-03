@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![top-langs](https://github.com/user-attachments/assets/d5b8d2bc-3523-4d7a-8886-9d5bd5383f51)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGvirer"/>
 <p><img align="center" src="activity-snake.svg" alt="RGvirer" /></p>
 
 
