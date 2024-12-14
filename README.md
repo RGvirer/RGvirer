@@ -5,9 +5,9 @@
 ![top-langs](https://github.com/user-attachments/assets/d5b8d2bc-3523-4d7a-8886-9d5bd5383f51)
 <p><img align="center" src="activity-snake.svg" alt="RGvirer" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true)
 
 
 
