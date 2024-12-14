@@ -1,5 +1,5 @@
 
-![My Github Profile (1)](https://github.com/user-attachments/assets/28e44c69-450d-4ed6-9bfa-ac942b074ee6)
+<img src="https://github.com/user-attachments/assets/28e44c69-450d-4ed6-9bfa-ac942b074ee6" alt="My Github Profile" style="width:100;"/>
 
 ## Hi, I'm Rivka Gvirer  &#11088;
 
@@ -12,8 +12,8 @@ I have worked on various projects, including:
 - **E-Commerce System** – Developed a complete e-commerce platform using React, Node.js, and MongoDB.
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGvirer&show_icons=true&theme=dark&layout=compact&count_private=true&langs_count=8&title_color=50C878)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878)
 
 ## How to Reach Me
 If you're interested in discussing software development projects or potential opportunities, feel free to reach out!
