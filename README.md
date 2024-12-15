@@ -13,13 +13,13 @@ I have worked on various projects, including:
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGvirer&show_icons=true&theme=dark&layout=compact&count_private=true&langs_count=8&title_color=50C878)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878)
 
 ## How to Reach Me
 If you're interested in discussing software development projects or potential opportunities, feel free to reach out!
 
-[![GitHub](https://img.shields.io/badge/GitHub-RGvirer-black?style=for-the-badge&logo=github)](https://github.com/RGvirer)
-[![Gmail](https://img.shields.io/badge/Email-rgv1198@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rgv1198@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RGvirer)
+[![Gmail](https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail)](mailto:rgv1198@gmail.com)
 
 Thanks for visiting my profile!
 
