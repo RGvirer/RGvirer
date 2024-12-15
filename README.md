@@ -13,7 +13,7 @@ I have worked on various projects, including:
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGvirer&show_icons=true&theme=dark&layout=compact&count_private=true&langs_count=8&title_color=50C878)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## How to Reach Me
 If you're interested in discussing software development projects or potential opportunities, feel free to reach out!
