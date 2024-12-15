@@ -9,7 +9,7 @@ I'm a Junior Full-Stack Developer with a strong foundation in software developme
 I have worked on various projects, including:
 - **Voxonics** – Developed an automated call dialing and routing system in Vue.js.
 - **Version Control System** – Built a version control system frontend in Angular with a C# backend, and SQL Server.
-- **E-Commerce System** – Developed a complete e-commerce platform using React, Node.js, and MongoDB.
+- **E-Commerce System** – Developed a complete e-commerce platform using React, Node.js, and MongoDB. [Check it out here](https://homedesignstore.netlify.app)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGvirer&show_icons=true&theme=dark&layout=compact&count_private=true&langs_count=8&title_color=50C878)
