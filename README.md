@@ -19,7 +19,7 @@ I have worked on various projects, including:
 If you're interested in discussing software development projects or potential opportunities, feel free to reach out!
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RGvirer)
-[![Gmail](https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail)](mailto:rgv1198@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rgv1198@gmail.com)
 
 Thanks for visiting my profile!
 
