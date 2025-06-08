@@ -5,12 +5,6 @@
 Full‑Stack Developer turning complex challenges into simple, reliable web products.  
 I care about clean code, smooth UX, and solutions that scale.
 
-💡 Highlights  
-- Built AI-integrated apps  
-- Developed automated call-routing systems  
-- Created full e-commerce platforms  
-- Contributed to open-source projects  
-
 Focused, independent, and always ready to solve real-world problems through technology.
 
 ## GitHub Stats
