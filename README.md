@@ -1,8 +1,17 @@
 <img src="https://github.com/user-attachments/assets/b1905db7-b939-47d1-8d30-580005f480b8" alt="My Github Profile" width="90%" />
 
-## Hi, I'm Rivka Gvirer  &#11088;
+## Hi, I'm Rivka Gvirer ⭐
 
-I'm a Junior Full-Stack Developer with a strong foundation in software development and proficiency in various technologies.
+Full‑Stack Developer turning complex challenges into simple, reliable web products.  
+I care about clean code, smooth UX, and solutions that scale.
+
+💡 Highlights  
+- Built AI-integrated apps  
+- Developed automated call-routing systems  
+- Created full e-commerce platforms  
+- Contributed to open-source projects  
+
+Focused, independent, and always ready to solve real-world problems through technology.
 
 ## GitHub Stats
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=RGvirer&theme=github-compact&bg_color=000000&height=300" width="90%"/> -->
