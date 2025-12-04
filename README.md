@@ -7,10 +7,11 @@ I care about clean code, smooth UX, and solutions that scale.
 
 Focused, independent, and always ready to solve real-world problems through technology.
 
-## GitHub Stats
+<!--## GitHub Stats -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=RGvirer&theme=github-compact&bg_color=000000&height=300" width="90%"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878" width="54%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGvirer&show_icons=true&theme=dark&layout=compact&count_private=true&langs_count=8&title_color=50C878&" width="35.5%">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=RGvirer&show_icons=true&count_private=true&theme=dark&title_color=50C878" width="54%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RGvirer&show_icons=true&theme=dark&layout=compact&count_private=true&langs_count=8&title_color=50C878&" width="35.5%"> -->
+
 
 ## Projects
 I have worked on various projects, including:
