@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/b1905db7-b939-47d1-8d30-580005f480b8" alt="My Github Profile" width="90%" />
 
-## Hi, I'm Rivka Gvirer ⭐
+## Hi, I'm Rivka Kastelanitz(Gvirer) ⭐
 
 Full‑Stack Developer turning complex challenges into simple, reliable web products.  
 I care about clean code, smooth UX, and solutions that scale.
